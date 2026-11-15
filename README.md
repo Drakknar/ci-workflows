@@ -1,5 +1,7 @@
 # ci-workflows
 
+<img src="assets/icon.svg" alt="" width="96" align="right">
+
 Shared GitHub Actions workflows for Drakknar's repos.
 
 - `image.yml`: secret scan, tests, build and smoke test; publishes to GHCR from `main` only.
